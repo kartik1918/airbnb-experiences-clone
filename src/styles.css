@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    width: 550px;
+    height: 70px;
+}
+
+.nav-logo {
+    width: 82.02px;
+    height: 25.35px;
+}
